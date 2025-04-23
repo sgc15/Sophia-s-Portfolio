@@ -11,7 +11,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/sophia-correale-a6a075
 
 
 ### Education 
-BSc in Communication and Media at 
+BA in Communication and Media at 
 Loyola University, MD
 
 ### Projects
