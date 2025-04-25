@@ -1,4 +1,4 @@
-![image](SophiaCorreale.png)
+![Banner image with text: Sophia Correale](SophiaCorreale.png)
 
 # Video Editor
 
@@ -25,7 +25,7 @@ Loyola University, MD
 
 This project was one of our earlier assignments of the semester. I was tasked with making Grade Calculator for one class in Excel. I chose my Theology and Literature class and filled in the model with generally random grades to illustrate how the calculator will function.
 
-![image](excelss.png)
+![Image of Excel Grade Calculator](excelss.png)
 
 **Initial Project Idea:**
 The assignment was to create a grade calculator in excel for my Beginner Computer Science class. It became useful to me throughout my time at Loyola because I was able to calculate my grade for each of my classes. 
