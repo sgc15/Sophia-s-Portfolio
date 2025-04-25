@@ -1,3 +1,5 @@
+![image](SophiaCorreale.png)
+
 # Video Editor
 
 ### About Me 
