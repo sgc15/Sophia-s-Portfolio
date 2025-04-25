@@ -1,4 +1,4 @@
-![image](Sophia Correale.png)
+![image](https://github.com/sgc15/Sophia-s-Portfolio/blob/d492ee4aa2d3bcb0ed9531f8d41b9cd918cb6698/Sophia%20Correale.png)
 
 # Video Editor
 
