@@ -18,7 +18,7 @@ Loyola University, MD
 
 #### Excel Grade Calculator 
 
-image---
+![image](excelss.png)
 
 Initial Project Idea:
 The assignment was to create a grade calculator in excel for my Beginner Computer Science class. It became useful to me throughout my time at Loyola because I was able to calculate my grade for each of my classes. 
