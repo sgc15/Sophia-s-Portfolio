@@ -1,10 +1,8 @@
-![image](https://github.com/sgc15/Sophia-s-Portfolio/blob/d492ee4aa2d3bcb0ed9531f8d41b9cd918cb6698/Sophia%20Correale.png)
+![image](SophiaCorreale.png)
 
 # Video Editor
 
 ### About Me 
-
-![image](https://github.com/sgc15/Sophia-s-Portfolio/blob/508898f6b59e09588c99257389c71d08eb51e97d/DSC_8139%20(1).JPG)
 
 Hello! I am a current university student and video editing professional with over 5 years of proven expertise in the Communications and Media field with a focus in Digital Media and Video Editing. 
 
