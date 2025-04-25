@@ -3,6 +3,9 @@
 # Video Editor
 
 ### About Me 
+
+![image](https://github.com/sgc15/Sophia-s-Portfolio/blob/508898f6b59e09588c99257389c71d08eb51e97d/DSC_8139%20(1).JPG)
+
 Hello! I am a current university student and video editing professional with over 5 years of proven expertise in the Communications and Media field with a focus in Digital Media and Video Editing. 
 
 With skills in Premiere Pro, Excel, Data Analysis, and Design, I am able to organize files for video projects effectively, and produce detail oriented videos. I am adept at using Premiere Pro, Excel, and basic Python. 
