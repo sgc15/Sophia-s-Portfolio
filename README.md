@@ -1,4 +1,4 @@
-![image](SophiaCorreale.png)
+![image](Sophia Correale.png)
 
 # Video Editor
 
