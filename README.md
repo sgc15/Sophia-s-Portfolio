@@ -2,6 +2,8 @@
 
 # Video Editor
 
+Email: sgcorreale@loyola.edu
+
 ### About Me 
 
 Hello! I am a current university student and video editing professional with over 5 years of proven expertise in the Communications and Media field with a focus in Digital Media and Video Editing. 
@@ -21,22 +23,26 @@ Loyola University, MD
 
 #### Excel Grade Calculator 
 
+This project was one of our earlier assignments of the semester. I was tasked with making Grade Calculator for one class in Excel. I chose my Theology and Literature class and filled in the model with generally random grades to illustrate how the calculator will function.
+
 ![image](excelss.png)
 
-Initial Project Idea:
+**Initial Project Idea:**
 The assignment was to create a grade calculator in excel for my Beginner Computer Science class. It became useful to me throughout my time at Loyola because I was able to calculate my grade for each of my classes. 
 
-Tools I Used:
+**Tools I Used:**
 I utilized the videos that my teacher had posted for this lesson, I asked my teacher questions, and I asked my classmates as well. 
 
-Challenges I Faced:
+**Challenges I Faced:**
 I struggled with the layout of my grade calculator. I also got confused with what calculations need to be made where. Both of these obstacles were solved by talking to one of my classmates, we worked out the problem together by drawing it out on the chalk board. 
 
-Result:
+**Result:**
 I set out to make a grade calculator in a way that was visually appealing for me, and I did just that. I think that I could improve it even further by making the same set up for all of my other classes and then finding the total of all of them together for my overall GPA. 
 
 ***
 #### Python Grade Calculator
+
+Similar to the Excel Grade Calculator, later in the semester we were tasked with making a calculator in Python. This project involves user imput to calculate their grade for a class of their chosing. This calculator involves a corresponding letter grade, similar to the Excel one. 
 
 ```
 print("Course Grade Evaluator")
@@ -150,22 +156,24 @@ elif 60 > waverage:
     print("Weighted letter grade: F")
 ```
 
-Initial Project Idea: 
+**Initial Project Idea:**
 The assignment was to create a grade calculator in python. I built off of my grade calculator in excel and created something similar, but in python. This was also helpful in calculating my grades.
 
-Tools I Used:
+**Tools I Used:**
 I was able to use my notes and figure out most of this on my own, but I also got some help from one of my classmates along with my professor. 
 
-Challenges I Faced:
+**Challenges I Faced:**
 I am not very good at math and numbers, so I had a bit of difficulty figuring our the calculations on this grade calculator as well. This is where I got my classmates help. I also did a lot of trial and error when figuring out most of this assessment. I got my professors help with troubleshooting the error message. 
 
-Result:
+**Result:**
 I set out to make a grade calculator using python, and I did just that. Same for the excel grade calculator, I could make this able to do multiple classes and calculate my overall GPA.
 
 
 
 ***
 #### Python Personality Test
+
+This assignment involves user imput to execute a personality test. I chose for my personality test to assign the user one of 4 characters from Voltron. This was our final assignment in Python and showcases a large amount of my skills in Python.
 
 ```
 print("What Voltron Character are You?")
@@ -391,16 +399,16 @@ elif 32 < result < 42:
     print(personality4)
 ```
  
-Initial Project Idea:
+**Initial Project Idea:**
 The assignment was to create a personality test in python for my Beginner Computer Science class. I chose to create a "Which Voltron Character Am I?" test. 
 
-Tools I Used:
+**Tools I Used:**
 Our professor walked us through some of the steps in class and the rest I figured out on my own. 
 
-Challenges I Faced:
+**Challenges I Faced:**
 One of the challenges I faced was how to code an error check, and I trial and errored it several times, but eventually asked my professor for help.
 
-Result:
+**Result:**
 I set out to make a personality test where you can get one of 4 Voltron characters. I did achieve this, but I would go back and add more answers to the questions that correspond to more main characters from the show.
 
 
